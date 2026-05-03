@@ -1,1 +1,8 @@
+-+ FILETYPE .VEL
+-+ EXAMPLE SCRIPT
+-+ DIR "example/hello.vel"
 
+[:]line
+[:"Hello World!"]voice
+
+$commit
